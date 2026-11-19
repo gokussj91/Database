@@ -2,7 +2,7 @@
 
 This repository contains my lab exercises, SQL scripts, and practice work for the **Fundamentals of Database** course.
 
-## Topics Covered
+## Topics Covered (in Progress...)
 - Database and schema setup
 - User roles, permissions, and access control (DCL)
 - Table creation and constraints (DDL)
